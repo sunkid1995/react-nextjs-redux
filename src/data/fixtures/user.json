@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "email": "thanhnx@onaclover.com",
+  "display_name": "ThanhNX",
+  "nickname": "ThanhNX",
+  "picture": null,
+  "password_changed": true,
+  "auth_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRoYW5obnhAb25hY2xvdmVyLmNvbSIsInVpZCI6IjgzOWU2OGJkLTJjN2QtNDkzMy1hMmI3LWYxZDM0MDkyODI0NiIsImlhdCI6MTUyMDg0MjA3MCwiZXhwIjoxNTIxNDQ2ODcwLCJqdGkiOiJiMDlhYjM4NS1iZWZiLTRiNzYtODQyZC0xODQ1ZWU2MGJhNGEifQ.zUxEMCY2zYj6y4jw6-sJAHig-hPzDY_l_MoCT4XfbhI",
+  "roles": [
+    "user",
+    "sales_manager",
+    "sales_man"
+  ]
+}

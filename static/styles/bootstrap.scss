@@ -1,0 +1,21 @@
+// Colors
+$green: #23b74f;
+$pink: #e82e81;
+$purple: #83358b;
+$red: #ef1a1a;
+
+$body-bg: #eeeeee;
+$link-color: $pink;
+$primary: #292941;
+
+$theme-colors: (
+  "green": $green,
+  "pink": $pink,
+  "purple": $purple,
+  "red": $red,
+);
+
+// Buttons
+$btn-disabled-opacity: 1;
+
+@import "node_modules/bootstrap/scss/bootstrap";

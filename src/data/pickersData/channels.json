@@ -1,0 +1,242 @@
+[
+  {
+    "id": "Hotline",
+    "value": "Hotline"
+  },
+  {
+    "id": "Sale",
+    "value": "Sale"
+  },
+  {
+    "id": "Livechat",
+    "value": "Live chat"
+  },
+  {
+    "id": "Email",
+    "value": "Email"
+  },
+  {
+    "id": "Instagram",
+    "value": "Instagram"
+  },
+  {
+    "id": "FbLead",
+    "value": "Facebook Lead"
+  },
+  {
+    "id": "FbInbox",
+    "value": "Facebook Inbox"
+  },
+  {
+    "id": "FbComment",
+    "value": "Facebook Comment"
+  },
+  {
+    "id": "LpComment",
+    "value": "Landing page Comment"
+  },
+  {
+    "id": "AppPurchase",
+    "value": "App Purchase"
+  },
+  {
+    "id": "AppTrial",
+    "value": "App Trial"
+  },
+  {
+    "id": "Fail_in_app",
+    "value": "Fail In-app"
+  },
+  {
+    "id": "http://boi.wefit.vn/",
+    "value": "http://boi.wefit.vn/"
+  },
+  {
+    "id": "http://boisaigon.wefit.vn/",
+    "value": "http://boisaigon.wefit.vn/"
+  },
+  {
+    "id": "http://boisg.wefit.vn/",
+    "value": "http://boisg.wefit.vn/"
+  },
+  {
+    "id": "http://buffet-fitness.wefit.vn/",
+    "value": "http://buffet-fitness.wefit.vn/"
+  },
+  {
+    "id": "http://buffet.wefit.vn/",
+    "value": "http://buffet.wefit.vn/"
+  },
+  {
+    "id": "http://dance.wefit.vn/",
+    "value": "http://dance.wefit.vn/"
+  },
+  {
+    "id": "http://dancesg.wefit.vn/",
+    "value": "http://dancesg.wefit.vn/"
+  },
+  {
+    "id": "http://dangdep.wefit.vn/",
+    "value": "http://dangdep.wefit.vn/"
+  },
+  {
+    "id": "http://dangdep3.wefit.vn/",
+    "value": "http://dangdep3.wefit.vn/"
+  },
+  {
+    "id": "http://dangky.wefit.vn/",
+    "value": "http://dangky.wefit.vn/"
+  },
+  {
+    "id": "http://gym.wefit.vn/",
+    "value": "http://gym.wefit.vn/"
+  },
+  {
+    "id": "http://gymer.wefit.vn/",
+    "value": "http://gymer.wefit.vn/"
+  },
+  {
+    "id": "http://gymsg.wefit.vn/",
+    "value": "http://gymsg.wefit.vn/"
+  },
+  {
+    "id": "http://kickboxing.wefit.vn/",
+    "value": "http://kickboxing.wefit.vn/"
+  },
+  {
+    "id": "http://kickboxsg.wefit.vn/",
+    "value": "http://kickboxsg.wefit.vn/"
+  },
+  {
+    "id": "http://phaidep.wefit.vn/",
+    "value": "http://phaidep.wefit.vn/"
+  },
+  {
+    "id": "http://quan10.wefit.vn/",
+    "value": "http://quan10.wefit.vn/"
+  },
+  {
+    "id": "http://quan10va11.wefit.vn/",
+    "value": "http://quan10va11.wefit.vn/"
+  },
+  {
+    "id": "http://quan1va3.wefit.vn/",
+    "value": "http://quan1va3.wefit.vn/"
+  },
+  {
+    "id": "http://quan7.wefit.vn/",
+    "value": "http://quan7.wefit.vn/"
+  },
+  {
+    "id": "http://quan7va8.wefit.vn/",
+    "value": "http://quan7va8.wefit.vn/"
+  },
+  {
+    "id": "http://quanbinhthanh.wefit.vn/",
+    "value": "http://quanbinhthanh.wefit.vn/"
+  },
+  {
+    "id": "http://quangovap.wefit.vn/",
+    "value": "http://quangovap.wefit.vn/"
+  },
+  {
+    "id": "http://quantanbinh.wefit.vn/",
+    "value": "http://quantanbinh.wefit.vn/"
+  },
+  {
+    "id": "http://quanthuduc.wefit.vn/",
+    "value": "http://quanthuduc.wefit.vn/"
+  },
+  {
+    "id": "http://quatang.wefit.vn/",
+    "value": "http://quatang.wefit.vn/"
+  },
+  {
+    "id": "http://quatangdacbiet.wefit.vn/",
+    "value": "http://quatangdacbiet.wefit.vn/"
+  },
+  {
+    "id": "http://quatangyoga.wefit.vn/",
+    "value": "http://quatangyoga.wefit.vn/"
+  },
+  {
+    "id": "http://tapdadoi.wefit.vn/",
+    "value": "http://tapdadoi.wefit.vn/"
+  },
+  {
+    "id": "http://tapthehinh.wefit.vn/",
+    "value": "http://tapthehinh.wefit.vn/"
+  },
+  {
+    "id": "http://tapthehinh.wefit.vn/120-phong-tap",
+    "value": "http://tapthehinh.wefit.vn/120-phong-tap"
+  },
+  {
+    "id": "http://tapyoga.wefit.vn/",
+    "value": "http://tapyoga.wefit.vn/"
+  },
+  {
+    "id": "http://tapyoga.wefit.vn/60-phong-tap/",
+    "value": "http://tapyoga.wefit.vn/60-phong-tap/"
+  },
+  {
+    "id": "http://tapyogahanoi.wefit.vn/",
+    "value": "http://tapyogahanoi.wefit.vn/"
+  },
+  {
+    "id": "http://tintuc.wefit.vn/4-xu-huong-he-nay",
+    "value": "http://tintuc.wefit.vn/4-xu-huong-he-nay"
+  },
+  {
+    "id": "http://tintuc.wefit.vn/nhung-co-nang-dot-chay-moi-anh-nhin",
+    "value": "http://tintuc.wefit.vn/nhung-co-nang-dot-chay-moi-anh-nhin"
+  },
+  {
+    "id": "http://tintuc.wefit.vn/nu-sinh-qua-doi-vi-li-do-khien-ai-cung-phai-giat-minh",
+    "value": "http://tintuc.wefit.vn/nu-sinh-qua-doi-vi-li-do-khien-ai-cung-phai-giat-minh"
+  },
+  {
+    "id": "http://uudaigym.wefit.vn/",
+    "value": "http://uudaigym.wefit.vn/"
+  },
+  {
+    "id": "http://yogadadoi.wefit.vn/",
+    "value": "http://yogadadoi.wefit.vn/"
+  },
+  {
+    "id": "http://yogahn.wefit.vn/",
+    "value": "http://yogahn.wefit.vn/"
+  },
+  {
+    "id": "http://yogasaigon.wefit.vn/",
+    "value": "http://yogasaigon.wefit.vn/"
+  },
+  {
+    "id": "http://yogasg.wefit.vn/",
+    "value": "http://yogasg.wefit.vn/"
+  },
+  {
+    "id": "http://yogathoathich.wefit.vn/",
+    "value": "http://yogathoathich.wefit.vn/"
+  },
+  {
+    "id": "https://dangdep.wefit.vn/",
+    "value": "https://dangdep.wefit.vn/"
+  },
+  {
+    "id": "https://dangky.wefit.vn/",
+    "value": "https://dangky.wefit.vn/"
+  },
+  {
+    "id": "https://eva.wefit.vn/quyet-tam-giam-10kg-sau-khi-mat-chong",
+    "value": "https://eva.wefit.vn/quyet-tam-giam-10kg-sau-khi-mat-chong"
+  },
+  {
+    "id": "https://nguoiyeucu.wefit.vn/",
+    "value": "https://nguoiyeucu.wefit.vn/"
+  },
+  {
+    "id": "https://uudaigym.wefit.vn/",
+    "value": "https://uudaigym.wefit.vn/"
+  }
+]

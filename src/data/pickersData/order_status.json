@@ -1,0 +1,22 @@
+[
+  {
+    "id": "new",
+    "value": "Tạo mới"
+  },
+  {
+    "id": "confirmed",
+    "value": "Đã xác nhận"
+  },
+  {
+    "id": "on_going",
+    "value": "Đang giao"
+  },
+  {
+    "id": "delivered",
+    "value": "Thành công"
+  },
+  {
+    "id": "cancelled",
+    "value": "Đã hủy"
+  }
+]

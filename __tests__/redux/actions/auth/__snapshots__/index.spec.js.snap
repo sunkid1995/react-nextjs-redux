@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`redux/actions/auth authorize 1`] = `
+Object {
+  "payload": User {
+    "auth_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRoYW5obnhAb25hY2xvdmVyLmNvbSIsInVpZCI6IjgzOWU2OGJkLTJjN2QtNDkzMy1hMmI3LWYxZDM0MDkyODI0NiIsImlhdCI6MTUyMDg0MjA3MCwiZXhwIjoxNTIxNDQ2ODcwLCJqdGkiOiJiMDlhYjM4NS1iZWZiLTRiNzYtODQyZC0xODQ1ZWU2MGJhNGEifQ.zUxEMCY2zYj6y4jw6-sJAHig-hPzDY_l_MoCT4XfbhI",
+    "display_name": "ThanhNX",
+    "email": "thanhnx@onaclover.com",
+    "id": 4,
+    "nickname": "ThanhNX",
+    "roles": Array [
+      "user",
+      "sales_manager",
+      "sales_man",
+    ],
+  },
+  "type": "auth/AUTHORIZE",
+}
+`;
+
+exports[`redux/actions/auth deauthorize 1`] = `
+Object {
+  "type": "auth/DEAUTHORIZE",
+}
+`;

@@ -1,0 +1,98 @@
+[
+  {
+    "value": "Đơn hàng mới",
+    "label": "L0"
+  },
+  {
+    "value": "Đơn hàng không đủ thông tin để chăm sóc",
+    "label": "L0A.3"
+  },
+  {
+    "value": "Trùng với đơn hàng lên L8 (Retention)",
+    "label": "L0B.1"
+  },
+  {
+    "value": "Trùng với đơn hàng Lx.1, Lx.2 (Đang chăm sóc)",
+    "label": "L0B.2"
+  },
+  {
+    "value": "Trùng với đơn hàng Lx.3 (Đã từ chối)",
+    "label": "L0B.3"
+  },
+  {
+    "value": "Đơn hàng xuất kho của Tư vấn viên (Chưa tác động)",
+    "label": "L1.1"
+  },
+  {
+    "value": "Đơn hàng xuất kho của Tư vấn viên (Đang chăm sóc)",
+    "label": "L1.2"
+  },
+  {
+    "value": "Đơn hàng xuất kho của Tư vấn viên (Dừng chăm sóc)",
+    "label": "L1.3"
+  },
+  {
+    "value": "Đơn hàng liên lạc được, được nghe về WeFit (Mới)",
+    "label": "L2.1"
+  },
+  {
+    "value": "Đơn hàng liên lạc được, được nghe về WeFit (Đang chăm sóc)",
+    "label": "L2.2"
+  },
+  {
+    "value": "Đơn hàng liên lạc được, được nghe về WeFit (Đơn hàng bị từ chối)",
+    "label": "L2.3"
+  },
+  {
+    "value": "Đơn hàng có lịch hẹn thanh toán (Mới)",
+    "label": "L5.1"
+  },
+  {
+    "value": "Đang chuyển cho payment xử lý",
+    "label": "L5.2"
+  },
+  {
+    "value": "Payment từ chối nhận",
+    "label": "L5.3"
+  },
+  {
+    "value": "Đóng gói đơn hàng COD (Mới)",
+    "label": "L6A.1"
+  },
+  {
+    "value": "Đơn hàng đã hoàn thiên bộ KIT COD",
+    "label": "L6A.2"
+  },
+  {
+    "value": "Đơn hàng bị hủy",
+    "label": "L6A.3"
+  },
+  {
+    "value": "Đơn hàng được Hỗ trợ chuyển khoản (Mới)",
+    "label": "L6B.1"
+  },
+  {
+    "value": "Đơn hàng đã được hỗ trợ chuyển khoản bao gồm: Số tài khoản, Nội dung chuyển khoản",
+    "label": "L6B.2"
+  },
+  {
+    "value": "Đơn hàng bị hủy",
+    "label": "L6B.3"
+  },
+  {
+    "value": "Đơn hàng được giao cho bộ phận giao hàng (Mới)",
+    "label": "L7.1"
+  },
+  {
+    "value": "Đơn hàng đã được giao cho shipper và đang được chăm sóc",
+    "label": "L7.2"
+  },
+  {
+    "value": "Đơn hàng từ chối nhận",
+    "label": "L7.3"
+  },
+  {
+    "value": "Đơn hàng thành công",
+    "label": "L8"
+  }
+]

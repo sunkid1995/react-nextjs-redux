@@ -1,0 +1,18 @@
+[
+  {
+    "id": "COD",
+    "value": "COD"
+  },
+  {
+    "id": "BANK",
+    "value": "Chuyển khoản"
+  },
+  {
+    "id": "IN_APP",
+    "value": "In-app"
+  },
+  {
+    "id": "INSTALLMENT",
+    "value": "Trả góp"
+  }
+]

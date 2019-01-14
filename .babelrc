@@ -1,0 +1,37 @@
+{
+  "env": {
+    "production": {
+      "plugins": [
+        "lodash",
+        [
+          "transform-remove-console",
+          {
+            "exclude": [
+              "error"
+            ]
+          }
+        ]
+      ]
+    },
+    "test": {
+      "presets": [
+        "env",
+        "react"
+      ]
+    }
+  },
+  "plugins": [
+    "transform-decorators-legacy",
+    [
+      "module-resolver",
+      {
+        "root": [
+          "."
+        ]
+      }
+    ]
+  ],
+  "presets": [
+    "next/babel"
+  ]
+}

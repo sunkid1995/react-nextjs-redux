@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`redux/actions/serviceApi/authWithEmail error 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "dataKey": "emailAuth",
+      "manifest": Object {
+        "klass": "User",
+      },
+      "request": Object {
+        "data": Object {
+          "email": "salesman@onaclover.com",
+          "password": "12345678",
+        },
+        "method": "post",
+        "url": "/users/login",
+      },
+    },
+    "type": "serviceApi/AUTH_WITH_EMAIL",
+  },
+  Object {
+    "error": Object {
+      "message": "serviceApi/AUTH_WITH_EMAIL request failed",
+      "response": Object {
+        "data": Object {
+          "errors": Array [
+            Object {
+              "message": "serviceApi/AUTH_WITH_EMAIL request failed",
+            },
+          ],
+        },
+        "status": 500,
+      },
+    },
+    "meta": Object {
+      "previousAction": Object {
+        "payload": Object {
+          "dataKey": "emailAuth",
+          "manifest": Object {
+            "klass": "User",
+          },
+          "request": Object {
+            "data": Object {
+              "email": "salesman@onaclover.com",
+              "password": "12345678",
+            },
+            "method": "post",
+            "url": "/users/login",
+          },
+        },
+        "type": "serviceApi/AUTH_WITH_EMAIL",
+      },
+    },
+    "type": "serviceApi/AUTH_WITH_EMAIL:ERROR",
+  },
+]
+`;
+
+exports[`redux/actions/serviceApi/authWithEmail success 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "dataKey": "emailAuth",
+      "manifest": Object {
+        "klass": "User",
+      },
+      "request": Object {
+        "data": Object {
+          "email": "salesman@onaclover.com",
+          "password": "12345678",
+        },
+        "method": "post",
+        "url": "/users/login",
+      },
+    },
+    "type": "serviceApi/AUTH_WITH_EMAIL",
+  },
+  Object {
+    "meta": Object {
+      "previousAction": Object {
+        "payload": Object {
+          "dataKey": "emailAuth",
+          "manifest": Object {
+            "klass": "User",
+          },
+          "request": Object {
+            "data": Object {
+              "email": "salesman@onaclover.com",
+              "password": "12345678",
+            },
+            "method": "post",
+            "url": "/users/login",
+          },
+        },
+        "type": "serviceApi/AUTH_WITH_EMAIL",
+      },
+    },
+    "payload": Object {
+      "data": User {
+        "auth_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRoYW5obnhAb25hY2xvdmVyLmNvbSIsInVpZCI6IjgzOWU2OGJkLTJjN2QtNDkzMy1hMmI3LWYxZDM0MDkyODI0NiIsImlhdCI6MTUyMDg0MjA3MCwiZXhwIjoxNTIxNDQ2ODcwLCJqdGkiOiJiMDlhYjM4NS1iZWZiLTRiNzYtODQyZC0xODQ1ZWU2MGJhNGEifQ.zUxEMCY2zYj6y4jw6-sJAHig-hPzDY_l_MoCT4XfbhI",
+        "display_name": "ThanhNX",
+        "email": "thanhnx@onaclover.com",
+        "id": 4,
+        "nickname": "ThanhNX",
+        "roles": Array [
+          "user",
+          "sales_manager",
+          "sales_man",
+        ],
+      },
+    },
+    "type": "serviceApi/AUTH_WITH_EMAIL:SUCCESS",
+  },
+]
+`;

@@ -1,0 +1,11 @@
+export const CITIES = require('src/data/pickersData/cities.json');
+export const DISTRICTSHN = require('src/data/pickersData/DistrictsHN.json');
+export const DISTRICTSHCM = require('src/data/pickersData/DistrictsHCM.json');
+export const PRIORITIES = require('src/data/pickersData/priorities.json');
+export const SOURCESSALE = require('src/data/pickersData/sourcesSale.json');
+export const CHANNELS = require('src/data/pickersData/channels.json');
+export const TYPESCONTACT = require('src/data/pickersData/typesContact.json');
+export const MEMBERSHIPS = require('src/data/pickersData/memberships.json');
+export const LEVELS = require('src/data/pickersData/levels.json');
+export const PAYMENT_METHOD = require('src/data/pickersData/payment_method.json');
+export const ORDER_STATUS = require('src/data/pickersData/order_status.json');

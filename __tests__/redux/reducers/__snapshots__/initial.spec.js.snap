@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`redux/reducers/initial auth 1`] = `
+Object {
+  "user": undefined,
+}
+`;
+
+exports[`redux/reducers/initial meta 1`] = `
+Object {
+  "rehydrated": false,
+}
+`;
+
+exports[`redux/reducers/initial serviceApi 1`] = `
+Object {
+  "emailAuth": Object {
+    "data": undefined,
+    "error": undefined,
+    "loading": false,
+  },
+  "passwordForgotten": Object {
+    "data": undefined,
+    "error": undefined,
+    "loading": false,
+  },
+  "passwordReset": Object {
+    "data": undefined,
+    "error": undefined,
+    "loading": false,
+  },
+}
+`;

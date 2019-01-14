@@ -1,0 +1,5 @@
+{
+  "baseUri": "https://staging.crm.wefit.vn",
+  "env": "development",
+  "reduxPersistVersion": 1
+}
